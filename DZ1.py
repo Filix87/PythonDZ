@@ -64,7 +64,7 @@ def zadacha3():
     elif number == 4:
         print("x > 0, y < 0")
     else:
-        print("Yомер четверти должен быть от 1 до 4")
+        print("Номер четверти должен быть от 1 до 4")
 
 
 # zadacha3()
